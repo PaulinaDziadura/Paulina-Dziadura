@@ -12,7 +12,7 @@
 
 👩‍🎓 I completed an 8-month Cyber ​​Trainees course organized by Microsoft and the Kościuszko Institute
 
-🔎 I love to challenge myself and feel the thrill when the solution is just a few lines of code from me...😃 
+🔎 I love to challenge myself and feel the thrill when the solution is just a few lines of code away...😃 
 
 🧗‍ Recently, in addition to coding, I have also:
 
