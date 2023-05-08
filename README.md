@@ -16,7 +16,7 @@
 
 🧗‍ Recently, in addition to coding, I have also:
 
-- obtained a TOEIC certificate with a score of ETS 955/990
+- obtained a TOEIC certificate with a score of 955/990
 - learned to play the ukulele
 - crushed my family in Everdell 😁
 
