@@ -20,7 +20,7 @@
 - learned to play the ukulele
 - crushed my family in Everdell 😁
 
-🌱 I’m currently learning: DARE IT challenge: Automated testing + Python
+🌱 Just finished: DARE IT challenge: Automated testing + Python
 
 📫 How to reach me: paulina.dziadura@gmail.com
 
