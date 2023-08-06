@@ -8,8 +8,6 @@
 
 👋 Hello! I'm Paulina Dziadura and I'm an MA of Cultural Studies with 10 years of experience working in a ... court 😁
 
-💓 Status: In relationship with Python 😉
-
 👩‍🎓 I completed an 8-month Cyber ​​Trainees course organized by Microsoft and the Kościuszko Institute
 
 🔎 I love to challenge myself and feel the thrill when the solution is just a few lines of code away...😃 
